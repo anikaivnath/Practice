@@ -1,0 +1,12 @@
+h1{
+    color:aliceblue;
+}
+body
+{   
+    background-color:skyblue;
+    background-image: url(https://img.freepik.com/free-photo/top-view-white-daisies_23-2148183884.jpg?w=740&t=st=1705766883~exp=1705767483~hmac=511d52a9ab465c95e37d68f6590a21f0eb7709cb29558424f3fb0fe84447bcaa);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    
+} 
